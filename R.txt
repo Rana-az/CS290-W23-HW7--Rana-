@@ -1,6 +1,5 @@
-
-
-my 
-name
-is 
-Rana
+My
+Fav 
+Color
+Is
+Black
